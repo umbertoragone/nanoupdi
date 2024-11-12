@@ -55,3 +55,6 @@ Included in this repository is the HTML BOM to help you in the assembly/solderin
 | USB1         | USB_C_Receptacle_USB2.0 | TYPE-C-31-M-12                  | [C2988369](https://www.lcsc.com/product-detail/C2988369.html) |                 | 1   |
 | VREG1        | AP2112K-3.3             | SOT-23-5                        | [C51118](https://www.lcsc.com/product-detail/C51118.html)     |                 | 1   |
 | J1           | Conn_01x03              | PinHeader_1x03_P2.54mm_Vertical | [C492411](https://www.lcsc.com/product-detail/C492411.html)   |                 | 1   |
+
+## Prebuilt option
+If you're looking for a NanoUPDI programmer that's already assembled and ready to go, I offer a prebuilt option that's perfect for those who want a plug-and-play solution without the hassle of sourcing and assembling components. Each unit is handcrafted and fully tested before shipping. [Check it out on my Tindie store](https://www.tindie.com/products/ragone/nanoupdi/).
