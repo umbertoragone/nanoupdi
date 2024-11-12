@@ -2,8 +2,8 @@
 The smallest USB Type-C Serial UPDI programmer for your projects.
 
 <p align=center>
-  <img src="/images/nanoupdi_3.jpg?raw=true" alt="NanoUPDI programmer front" width=500 />
-  <img src="/images/nanoupdi_4.jpg?raw=true" alt="NanoUPDI programmer back" width=500 />
+  <img src="/images/nanoupdi_3.jpg?raw=true" alt="NanoUPDI programmer front" width=400 />
+  <img src="/images/nanoupdi_4.jpg?raw=true" alt="NanoUPDI programmer back" width=400 />
 </p>
 
 ## What is UPDI?
