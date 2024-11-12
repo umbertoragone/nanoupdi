@@ -1,10 +1,7 @@
 # NanoUPDI
-The smallest USB Type-C Serial UPDI programmer for your projects.
+The smallest USB Type-C Serial UPDI programmer for your projects. **Available for purchase on my [Tindie store](https://www.tindie.com/products/ragone/nanoupdi/)!**
 
-<p align=center>
-  <img src="/images/nanoupdi_3.jpg?raw=true" alt="NanoUPDI programmer front" width=400 />
-  <img src="/images/nanoupdi_4.jpg?raw=true" alt="NanoUPDI programmer back" width=400 />
-</p>
+<img src="/images/nanoupdi_3.jpg?raw=true" alt="NanoUPDI programmer front" width=400 /> <img src="/images/nanoupdi_4.jpg?raw=true" alt="NanoUPDI programmer back" width=400 />
 
 ## What is UPDI?
 UPDI is a proprietary programming interface developed by [Atmel/Microchip](https://www.microchip.com), similar to the JTAG/SWD interfaces used for ARM microcontrollers. It's the default programming interface for several newer AVR microcontrollers, including models like the ATTINY212, ATTINY412, ATTINY414, etc. It only requires a single pin for programming, so it's more convenient and efficient.
@@ -57,4 +54,4 @@ Included in this repository is the HTML BOM to help you in the assembly/solderin
 | J1           | Conn_01x03              | PinHeader_1x03_P2.54mm_Vertical | [C492411](https://www.lcsc.com/product-detail/C492411.html)   | 1   |
 
 ## Prebuilt option
-If you're looking for a NanoUPDI programmer that's already assembled and ready to go, I offer a prebuilt option that's perfect for those who want a plug-and-play solution without the hassle of sourcing and assembling components. Each unit is handcrafted and fully tested before shipping. [Check it out on my Tindie store](https://www.tindie.com/products/ragone/nanoupdi/).
+If you're looking for a NanoUPDI programmer that's already assembled and ready to go, I offer a prebuilt option that's perfect for those who want a plug-and-play solution without the hassle of sourcing and assembling components. Each unit is handcrafted and fully tested before shipping. **[Check it out on my Tindie store](https://www.tindie.com/products/ragone/nanoupdi/)**.
