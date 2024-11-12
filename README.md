@@ -10,7 +10,7 @@ The smallest USB Type-C Serial UPDI programmer for your projects.
 UPDI is an [Atmel/Microchip](https://www.microchip.com) proprietary programming interface, much like JTAG/SWD used in ARM chips with CMSIS-DAP tools. It's the default programming mode for some of the new AVR microcontrollers we like, namely the ATTINY212, ATTINY412, ATTINY414 and ATTINY1614. Also! It only requires one pin to use: nice.
 
 ## Features
-- **CH340E USB to Serial converter**: A compact version of the well-known WCH CH340x series, which doesn't require an external crystal oscillator.
+- **CH340E/CH340X USB to Serial converter**: A compact version of the well-known WCH CH340x series, which doesn't require an external crystal oscillator.
 - **Compact Form Factor**: At only 10 x 22 mm (excluding header pins), it is the smallest serial UPDI programmer on the market.
 - **VCC Voltage Selector**: Easily switch between 3.3V (3V3) and 5V logic voltages with a simple flick of a switch.
 - **USB 2.0 speed**: Compatible with any USB Type-C cable that supports USB 2.0 (480 Mbps) speeds or greater. The reversible USB Type-C connector allows the cable to be plugged in either orientation, maintaining full functionality.
@@ -49,7 +49,7 @@ Included in this repository is the HTML BOM to help you in the assembly/solderin
 | D1           | 1N4148                  | D_SOD-523                       | [C727112](https://www.lcsc.com/product-detail/C727112.html)   | 1   |
 | D2           | EMERALD/GREEN           | LED_0603_1608Metric             | [C965804](https://www.lcsc.com/product-detail/C965804.html)   | 1   |
 | D3           | RED                     | LED_0603_1608Metric             | [C965799](https://www.lcsc.com/product-detail/C965799.html)   | 1   |
-| U1           | CH340E                  | MSOP-10_3x3mm_P0.5mm            | [C99652](https://www.lcsc.com/product-detail/C99652.html)     | 1   |
+| U1           | CH340E/CH340X           | MSOP-10_3x3mm_P0.5mm            | [C3035748](https://www.lcsc.com/product-detail/C3035748.html) | 1   |
 | SW1          | MSK12C02                | MSK12C02                        | [C431540](https://www.lcsc.com/product-detail/C431540.html)   | 1   |
 | FB1          | 220R @ 100MHz           | L_0805_2012Metric               | [C85840](https://www.lcsc.com/product-detail/C85840.html)     | 1   |
 | USB1         | USB_C_Receptacle_USB2.0 | TYPE-C-31-M-12                  | [C2988369](https://www.lcsc.com/product-detail/C2988369.html) | 1   |
