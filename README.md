@@ -1,8 +1,13 @@
 # NanoUPDI
 The smallest USB Type-C Serial UPDI programmer for your projects.
 
+<p align=center>
+  <img src="/images/nanoupdi_3.jpg?raw=true" alt="NanoUPDI programmer front" width=500 />
+  <img src="/images/nanoupdi_4.jpg?raw=true" alt="NanoUPDI programmer back" width=500 />
+</p>
+
 ## What is UPDI?
-UPDI is an [Atmel/Microchip](https://www.microchip.com) proprietary programming interface, much like JTAG/SWD used in ARM chips with CMSIS-DAP tools. It's the default programming mode for some of the new AVR microcontrollers we like, namely the ATTINY412 and ATTINY1614. Also! It only requires one pin to use: nice.
+UPDI is an [Atmel/Microchip](https://www.microchip.com) proprietary programming interface, much like JTAG/SWD used in ARM chips with CMSIS-DAP tools. It's the default programming mode for some of the new AVR microcontrollers we like, namely the ATTINY212, ATTINY412, ATTINY414 and ATTINY1614. Also! It only requires one pin to use: nice.
 
 ## Features
 - **CH340E USB to Serial converter**: A compact version of the well-known WCH CH340x series, which doesn't require an external crystal oscillator.
