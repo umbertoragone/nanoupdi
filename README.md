@@ -7,7 +7,7 @@ The smallest USB Type-C Serial UPDI programmer for your projects.
 </p>
 
 ## What is UPDI?
-UPDI is an [Atmel/Microchip](https://www.microchip.com) proprietary programming interface, much like JTAG/SWD used in ARM chips with CMSIS-DAP tools. It's the default programming mode for some of the new AVR microcontrollers we like, namely the ATTINY212, ATTINY412, ATTINY414 and ATTINY1614. Also! It only requires one pin to use: nice.
+UPDI is a proprietary programming interface developed by [Atmel/Microchip](https://www.microchip.com), similar to the JTAG/SWD interfaces used for ARM microcontrollers. It's the default programming interface for several newer AVR microcontrollers, including models like the ATTINY212, ATTINY412, ATTINY414, etc. It only requires a single pin for programming, so it's more convenient and efficient.
 
 ## Features
 - **CH340E/CH340X USB to Serial converter**: A compact version of the well-known WCH CH340x series, which doesn't require an external crystal oscillator.
