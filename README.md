@@ -31,7 +31,7 @@ Make sure to specify the correct serial device: on Linux devices, NanoUPDI might
 To use NanoUPDI with the Arduino IDE, first install the [megaTinyCore board support package](https://github.com/SpenceKonde/megaTinyCore), then choose **Serial UPDI** as the programmer in the dropdown menu.
 
 ## Gerber files
-If you want to fabricate your own PCBs from a PCB manufacturer of your choice, you can go ahead and download the `Gerber.zip` file from this repository. Upload it or send it to the PCB fabrication house and select the following specifications (if not already filled out):
+If you want to fabricate your own PCBs from a PCB manufacturer of your choice, you can go ahead and download the `Gerber-v2.x.zip` file from the `gerber` folder in this repository. Upload it or send it to the PCB fabrication house and select the following specifications (if not already filled out):
 - **Layers**: 2
 - **PCB Thickness**: 1.6 mm
 - **PCB Color**: any (green is usually cheaper and faster to produce, but black looks nicer)
