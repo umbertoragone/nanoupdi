@@ -11,7 +11,7 @@ UPDI is a proprietary programming interface developed by [Atmel/Microchip](https
 - **Compact Form Factor**: At only 10 x 22 mm (excluding header pins), it is the smallest serial UPDI programmer on the market.
 - **VCC Voltage Selector**: Easily switch between 3.3V (3V3) and 5V logic voltages with a simple flick of a switch.
 - **USB Type-C**: Compatible with any USB Type-C cable that supports both power and data (USB 2.0 or greater). The reversible USB Type-C connector allows the cable to be plugged in either orientation, maintaining full functionality (data and power).
-- **2.54mm Pitch Pin Hader**: Designed for right-angle (horizontal) pin headers with a 0.1" (2.54mm) pitch pin headers (breadboard compatible), it also allows for custom wires or connectors to be soldered based on your needs.
+- **2.54mm Pitch Pin Header**: Designed for right-angle (horizontal) pin headers with a 0.1" (2.54mm) pitch pin headers (breadboard compatible), it also allows for custom wires or connectors to be soldered based on your needs.
 - **Status LEDs**: Includes a green LED for power (PWR) and a red LED that blinks during data transfer (TX).
 - Inspired by [Stefan Wagner](https://github.com/wagiminator)'s [SerialUPDI Programmer](https://github.com/wagiminator/AVR-Programmer/tree/master/SerialUPDI_Programmer).
 
