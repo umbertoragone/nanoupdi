@@ -223,7 +223,7 @@
 		(property ki_fp_filters "TO-???* *_Diode_* *SingleDiode* D_*")
 		(path "/4266f148-cded-46bd-a3e3-8def02e1fc78")
 		(sheetname "Root")
-		(sheetfile "USB-C_UPDI_programmer_v2.kicad_sch")
+		(sheetfile "NanoUPDI_v2.kicad_sch")
 		(attr smd)
 		(fp_line
 			(start 0.7 -0.6)
@@ -531,7 +531,7 @@
 		(property ki_fp_filters "R_*")
 		(path "/b3a4593e-5889-4236-9cea-cfd8d367e84b")
 		(sheetname "Root")
-		(sheetfile "USB-C_UPDI_programmer_v2.kicad_sch")
+		(sheetfile "NanoUPDI_v2.kicad_sch")
 		(attr smd)
 		(fp_line
 			(start -0.153641 -0.38)
@@ -714,7 +714,7 @@
 				)
 			)
 		)
-		(property "Value" "100nF"
+		(property "Value" "100n"
 			(at 0 1.43 0)
 			(layer "F.Fab")
 			(uuid "70187396-d3f2-43d0-ac5d-1974639db569")
@@ -764,7 +764,7 @@
 		(property ki_fp_filters "C_*")
 		(path "/a1212075-54bb-4089-8e36-3b7338f4741e")
 		(sheetname "Root")
-		(sheetfile "USB-C_UPDI_programmer_v2.kicad_sch")
+		(sheetfile "NanoUPDI_v2.kicad_sch")
 		(attr smd dnp)
 		(fp_line
 			(start -0.14058 0.51)
@@ -997,7 +997,7 @@
 		(property ki_fp_filters "R_*")
 		(path "/6f57a5a4-433c-435d-ae57-d91a92377b47")
 		(sheetname "Root")
-		(sheetfile "USB-C_UPDI_programmer_v2.kicad_sch")
+		(sheetfile "NanoUPDI_v2.kicad_sch")
 		(attr smd)
 		(fp_line
 			(start 0.93 -0.47)
@@ -1213,7 +1213,7 @@
 		(property ki_fp_filters "R_*")
 		(path "/f579cb08-dbbf-4106-803c-276368169bb0")
 		(sheetname "Root")
-		(sheetfile "USB-C_UPDI_programmer_v2.kicad_sch")
+		(sheetfile "NanoUPDI_v2.kicad_sch")
 		(attr smd)
 		(fp_line
 			(start -0.153641 -0.38)
@@ -1446,7 +1446,7 @@
 		(property ki_fp_filters "SOT?23?5*")
 		(path "/ebc87e94-61df-41da-b64a-8cb9a91f6305")
 		(sheetname "Root")
-		(sheetfile "USB-C_UPDI_programmer_v2.kicad_sch")
+		(sheetfile "NanoUPDI_v2.kicad_sch")
 		(attr smd)
 		(fp_line
 			(start 0 1.56)
@@ -1775,7 +1775,7 @@
 		(property ki_fp_filters "R_*")
 		(path "/e4460efa-f6f7-4ffa-aed4-8e3a436315ec")
 		(sheetname "Root")
-		(sheetfile "USB-C_UPDI_programmer_v2.kicad_sch")
+		(sheetfile "NanoUPDI_v2.kicad_sch")
 		(attr smd)
 		(fp_line
 			(start -0.153641 0.38)
@@ -2008,7 +2008,7 @@
 		(property ki_fp_filters "R_*")
 		(path "/efae8659-81a5-4c41-aa54-08340ea7b9b0")
 		(sheetname "Root")
-		(sheetfile "USB-C_UPDI_programmer_v2.kicad_sch")
+		(sheetfile "NanoUPDI_v2.kicad_sch")
 		(attr smd)
 		(fp_line
 			(start -0.237258 -0.5225)
@@ -2241,7 +2241,7 @@
 		(property ki_fp_filters "R_*")
 		(path "/02f3b7fe-23fa-468d-ae99-da5f8a060fe5")
 		(sheetname "Root")
-		(sheetfile "USB-C_UPDI_programmer_v2.kicad_sch")
+		(sheetfile "NanoUPDI_v2.kicad_sch")
 		(attr smd)
 		(fp_line
 			(start 0.93 -0.47)
@@ -2454,7 +2454,7 @@
 		(property ki_fp_filters "MSOP*3x3mm*P0.5mm*")
 		(path "/7493f89c-3a84-4a3a-841e-2c229b0d6374")
 		(sheetname "Root")
-		(sheetfile "USB-C_UPDI_programmer_v2.kicad_sch")
+		(sheetfile "NanoUPDI_v2.kicad_sch")
 		(attr smd)
 		(fp_line
 			(start -1.675 1.675)
@@ -2911,7 +2911,7 @@
 		(property ki_fp_filters "C_*")
 		(path "/fe752f05-60b6-4ad3-a04a-0aa10a3ab87e")
 		(sheetname "Root")
-		(sheetfile "USB-C_UPDI_programmer_v2.kicad_sch")
+		(sheetfile "NanoUPDI_v2.kicad_sch")
 		(attr smd)
 		(fp_line
 			(start -0.261252 -0.735)
@@ -3144,7 +3144,7 @@
 		(property ki_fp_filters "C_*")
 		(path "/fc24a6a5-871e-49df-979c-df551ea194a0")
 		(sheetname "Root")
-		(sheetfile "USB-C_UPDI_programmer_v2.kicad_sch")
+		(sheetfile "NanoUPDI_v2.kicad_sch")
 		(attr smd)
 		(fp_line
 			(start -0.14058 -0.51)
@@ -3380,7 +3380,7 @@
 		(property ki_fp_filters "LED* LED_SMD:* LED_THT:*")
 		(path "/1092e957-03e8-4c4f-adcc-1d38184ff8b5")
 		(sheetname "Root")
-		(sheetfile "USB-C_UPDI_programmer_v2.kicad_sch")
+		(sheetfile "NanoUPDI_v2.kicad_sch")
 		(attr smd)
 		(fp_line
 			(start -1.485 -0.735)
@@ -3638,7 +3638,7 @@
 		(property ki_fp_filters "Connector*:*_1x??_*")
 		(path "/da5a7f13-a983-4f60-9f7a-9f37fdb6a580")
 		(sheetname "Root")
-		(sheetfile "USB-C_UPDI_programmer_v2.kicad_sch")
+		(sheetfile "NanoUPDI_v2.kicad_sch")
 		(attr through_hole)
 		(fp_line
 			(start -1.33 -1.33)
@@ -3946,7 +3946,7 @@
 		(property ki_fp_filters "USB*C*Receptacle*")
 		(path "/a2602314-c176-451b-a2a0-a8a1226a5d14")
 		(sheetname "Root")
-		(sheetfile "USB-C_UPDI_programmer_v2.kicad_sch")
+		(sheetfile "NanoUPDI_v2.kicad_sch")
 		(attr smd)
 		(fp_line
 			(start 3.25 -4.37)
@@ -4608,7 +4608,7 @@
 		(property ki_fp_filters "C_*")
 		(path "/9b9f83e9-41b1-42d8-82f8-a45ea6dfe000")
 		(sheetname "Root")
-		(sheetfile "USB-C_UPDI_programmer_v2.kicad_sch")
+		(sheetfile "NanoUPDI_v2.kicad_sch")
 		(attr smd)
 		(fp_line
 			(start -0.261252 0.735)
@@ -4845,7 +4845,7 @@
 		(property ki_fp_filters "LED* LED_SMD:* LED_THT:*")
 		(path "/87ca30e2-30b3-4358-a49d-6f98d23c2a31")
 		(sheetname "Root")
-		(sheetfile "USB-C_UPDI_programmer_v2.kicad_sch")
+		(sheetfile "NanoUPDI_v2.kicad_sch")
 		(attr smd)
 		(fp_line
 			(start 0.8 -0.735)
@@ -5100,7 +5100,7 @@
 		(property ki_fp_filters "Inductor_* L_* *Ferrite*")
 		(path "/8345eae4-20b9-4bdc-b9bd-20228edeaf37")
 		(sheetname "Root")
-		(sheetfile "USB-C_UPDI_programmer_v2.kicad_sch")
+		(sheetfile "NanoUPDI_v2.kicad_sch")
 		(attr smd)
 		(fp_line
 			(start -0.399622 0.56)
@@ -5333,7 +5333,7 @@
 		(property ki_fp_filters "C_*")
 		(path "/6d5912aa-eecf-46fc-826b-d332cbf670b6")
 		(sheetname "Root")
-		(sheetfile "USB-C_UPDI_programmer_v2.kicad_sch")
+		(sheetfile "NanoUPDI_v2.kicad_sch")
 		(attr smd)
 		(fp_line
 			(start -0.14058 -0.51)
@@ -5518,7 +5518,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Value" "VCC"
+		(property "Value" "MSK12C02"
 			(at 0 1 180)
 			(layer "B.SilkS")
 			(hide yes)
@@ -5569,7 +5569,7 @@
 		)
 		(path "/265a771c-5154-4014-b919-30789f85146f")
 		(sheetname "Root")
-		(sheetfile "USB-C_UPDI_programmer_v2.kicad_sch")
+		(sheetfile "NanoUPDI_v2.kicad_sch")
 		(attr smd)
 		(fp_line
 			(start -3.15 -0.25)
@@ -5951,7 +5951,6 @@
 			(at -3.6625 -1.1 90)
 			(size 0.6 1.075)
 			(layers "B.Cu" "B.Paste" "B.Mask")
-			(net 2 "GND")
 			(zone_connect 2)
 			(teardrops
 				(best_length_ratio 0.5)
@@ -5970,7 +5969,6 @@
 			(at -3.6625 1.15 90)
 			(size 0.6 1.075)
 			(layers "B.Cu" "B.Paste" "B.Mask")
-			(net 2 "GND")
 			(zone_connect 2)
 			(teardrops
 				(best_length_ratio 0.5)
@@ -5989,7 +5987,6 @@
 			(at 3.6625 -1.1 90)
 			(size 0.6 1.075)
 			(layers "B.Cu" "B.Paste" "B.Mask")
-			(net 2 "GND")
 			(zone_connect 2)
 			(teardrops
 				(best_length_ratio 0.5)
@@ -6008,7 +6005,6 @@
 			(at 3.6625 1.15 90)
 			(size 0.6 1.075)
 			(layers "B.Cu" "B.Paste" "B.Mask")
-			(net 2 "GND")
 			(zone_connect 2)
 			(teardrops
 				(best_length_ratio 0.5)
