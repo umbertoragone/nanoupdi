@@ -30,6 +30,9 @@ Make sure to specify the correct serial device: on Linux devices, NanoUPDI might
 ### Arduino IDE
 To use NanoUPDI with the Arduino IDE, first install the [megaTinyCore board support package](https://github.com/SpenceKonde/megaTinyCore), then choose **Serial UPDI** as the programmer in the dropdown menu.
 
+## Kicad files
+If you want to open and modify the original project in Kicad 8 (>=8.0.6), you can find both the `.kicad_sch` and `.kicad_pcb` files in the `kicad` folder in this repository. I recommend you use the latest Kicad 8 version available for better compatibility.
+
 ## Gerber files
 If you want to fabricate your own PCBs from a PCB manufacturer of your choice, you can go ahead and download the `Gerber-v2.x.zip` file from the `gerber` folder in this repository. Upload it or send it to the PCB fabrication house and select the following specifications (if not already filled out):
 - **Layers**: 2
@@ -44,8 +47,8 @@ Included in this repository is the HTML BOM to help you in the assembly/solderin
 
 | Reference(s) | Value                   | Footprint                       | LCSC Part #                                                   | Qty |
 |--------------|-------------------------|---------------------------------|---------------------------------------------------------------|-----|
-| C1, C3, C4   | 100nF 50V 10% X7R       | C_0603_1608Metric               | [C14663](https://www.lcsc.com/product-detail/C14663.html)     | 3   |
-| C5, C6       | 10uF 10V 10% X7R        | C_0805_2012Metric               | [C237493](https://www.lcsc.com/product-detail/C237493.html)   | 2   |
+| C1, C4, C5   | 100nF 50V 10% X7R       | C_0603_1608Metric               | [C14663](https://www.lcsc.com/product-detail/C14663.html)     | 3   |
+| C2, C3       | 10uF 10V 10% X7R        | C_0805_2012Metric               | [C237493](https://www.lcsc.com/product-detail/C237493.html)   | 2   |
 | R1, R2       | 5k1 1%                  | R_0402_1005Metric               | [C25905](https://www.lcsc.com/product-detail/C25905.html)     | 2   |
 | R3, R6       | 470R 1%                 | R_0402_1005Metric               | [C25117](https://www.lcsc.com/product-detail/C25117.html)     | 2   |
 | R4           | 0R 1%                   | R_0603_1608Metric               | [C21189](https://www.lcsc.com/product-detail/C21189.html)     | 1   |
