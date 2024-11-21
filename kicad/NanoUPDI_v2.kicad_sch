@@ -3071,7 +3071,7 @@
 	)
 	(wire
 		(pts
-			(xy 217.17 139.7) (xy 217.17 140.335)
+			(xy 217.17 140.97) (xy 217.17 141.605)
 		)
 		(stroke
 			(width 0)
@@ -3181,7 +3181,7 @@
 	)
 	(wire
 		(pts
-			(xy 217.17 145.415) (xy 215.265 145.415)
+			(xy 217.17 146.685) (xy 215.265 146.685)
 		)
 		(stroke
 			(width 0)
@@ -3261,7 +3261,7 @@
 	)
 	(wire
 		(pts
-			(xy 204.47 142.24) (xy 204.47 142.875)
+			(xy 204.47 143.51) (xy 204.47 144.145)
 		)
 		(stroke
 			(width 0)
@@ -3271,7 +3271,7 @@
 	)
 	(wire
 		(pts
-			(xy 217.17 140.335) (xy 215.265 140.335)
+			(xy 217.17 141.605) (xy 215.265 141.605)
 		)
 		(stroke
 			(width 0)
@@ -3291,7 +3291,7 @@
 	)
 	(wire
 		(pts
-			(xy 204.47 142.875) (xy 205.105 142.875)
+			(xy 204.47 144.145) (xy 205.105 144.145)
 		)
 		(stroke
 			(width 0)
@@ -4379,7 +4379,7 @@
 	)
 	(symbol
 		(lib_id "power:+3V3")
-		(at 217.17 139.7 0)
+		(at 217.17 140.97 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -4388,7 +4388,7 @@
 		(fields_autoplaced yes)
 		(uuid "1be49ee1-b965-4c8f-93d3-df5453c4197a")
 		(property "Reference" "#PWR013"
-			(at 217.17 143.51 0)
+			(at 217.17 144.78 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4397,7 +4397,7 @@
 			)
 		)
 		(property "Value" "+3V3"
-			(at 217.17 136.525 0)
+			(at 217.17 137.795 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4405,7 +4405,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 217.17 139.7 0)
+			(at 217.17 140.97 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4414,7 +4414,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 217.17 139.7 0)
+			(at 217.17 140.97 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4423,7 +4423,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 217.17 139.7 0)
+			(at 217.17 140.97 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4445,7 +4445,7 @@
 	)
 	(symbol
 		(lib_id "Switch:SW_SPDT")
-		(at 210.185 142.875 0)
+		(at 210.185 144.145 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -4453,15 +4453,15 @@
 		(dnp no)
 		(uuid "265a771c-5154-4014-b919-30789f85146f")
 		(property "Reference" "SW1"
-			(at 210.185 136.525 0)
+			(at 210.185 133.985 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 			)
 		)
-		(property "Value" "VCC"
-			(at 210.185 138.43 0)
+		(property "Value" "MSK12C02"
+			(at 210.185 135.89 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4469,7 +4469,7 @@
 			)
 		)
 		(property "Footprint" "MSK12C02:MSK12C02"
-			(at 210.185 142.875 0)
+			(at 210.185 144.145 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4478,7 +4478,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 210.185 142.875 0)
+			(at 210.185 144.145 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4487,7 +4487,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 210.185 142.875 0)
+			(at 210.185 144.145 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4580,7 +4580,7 @@
 	)
 	(symbol
 		(lib_id "power:+5V")
-		(at 217.17 145.415 0)
+		(at 217.17 146.685 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -4588,7 +4588,7 @@
 		(dnp no)
 		(uuid "3bee20b2-3793-4f71-a3b3-6d7b4107dc4d")
 		(property "Reference" "#PWR02"
-			(at 217.17 149.225 0)
+			(at 217.17 150.495 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4597,7 +4597,7 @@
 			)
 		)
 		(property "Value" "+5V"
-			(at 217.17 141.605 0)
+			(at 217.17 142.875 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4605,7 +4605,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 217.17 145.415 0)
+			(at 217.17 146.685 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4614,7 +4614,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 217.17 145.415 0)
+			(at 217.17 146.685 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4623,7 +4623,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 217.17 145.415 0)
+			(at 217.17 146.685 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5701,7 +5701,7 @@
 		(fields_autoplaced yes)
 		(uuid "a1212075-54bb-4089-8e36-3b7338f4741e")
 		(property "Reference" "C1"
-			(at 98.425 44.4563 0)
+			(at 97.79 43.8212 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5709,8 +5709,8 @@
 				(justify left)
 			)
 		)
-		(property "Value" "100nF"
-			(at 98.425 46.9963 0)
+		(property "Value" "100n"
+			(at 97.79 46.3612 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5940,7 +5940,7 @@
 	)
 	(symbol
 		(lib_id "power:VCC")
-		(at 204.47 142.24 0)
+		(at 204.47 143.51 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -5948,7 +5948,7 @@
 		(dnp no)
 		(uuid "ac279647-9f82-4e24-88d1-f527d13cacff")
 		(property "Reference" "#PWR022"
-			(at 204.47 146.05 0)
+			(at 204.47 147.32 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5957,7 +5957,7 @@
 			)
 		)
 		(property "Value" "VCC"
-			(at 204.47 138.43 0)
+			(at 204.47 139.7 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5965,7 +5965,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 204.47 142.24 0)
+			(at 204.47 143.51 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5974,7 +5974,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 204.47 142.24 0)
+			(at 204.47 143.51 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5983,7 +5983,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 204.47 142.24 0)
+			(at 204.47 143.51 0)
 			(effects
 				(font
 					(size 1.27 1.27)
