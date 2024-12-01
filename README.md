@@ -61,7 +61,7 @@ Included in this repository is the HTML BOM to help you in the assembly/solderin
 | FB1          | 220R @ 100MHz           | L_0805_2012Metric               | [C85840](https://www.lcsc.com/product-detail/C85840.html)     | 1   |
 | USB1         | USB_C_Receptacle_USB2.0 | TYPE-C-31-M-12                  | [C2988369](https://www.lcsc.com/product-detail/C2988369.html) | 1   |
 | VREG1        | AP2112K-3.3             | SOT-23-5                        | [C51118](https://www.lcsc.com/product-detail/C51118.html)     | 1   |
-| J1           | Conn_01x03              | PinHeader_1x03_P2.54mm_Vertical | [C492411](https://www.lcsc.com/product-detail/C492411.html)   | 1   |
+| J1           | Conn_01x03              | PinHeader_1x03_P2.54mm_Vertical | [C92159](https://www.lcsc.com/product-detail/C92159.html)     | 1   |
 
 ## Component substitutions
 - **U1**: in case the CH340E is not available, the [CH340X](https://www.lcsc.com/product-detail/C3035748.html) should be a drop in replacement for the [CH340E](https://www.lcsc.com/product-detail/C99652.html): same footprint, same pinout and basically the same function—at least in the scope of this UPDI programmer.
