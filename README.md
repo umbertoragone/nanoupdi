@@ -40,7 +40,7 @@ If you want to fabricate your own PCBs from a PCB manufacturer of your choice, y
 - **PCB Color**: any (green is usually cheaper and faster to produce, but black looks nicer)
 - **Outer Copper Weight**: 1 oz
 - **Via Covering**: Tented
-- **Mark on PCB**: Order Number(Specify Position) or Remove Mark (JLCPCB specific)
+- **Mark on PCB**: Remove Mark (JLCPCB specific, now free of charge)
 
 ## BOM and assembly
 Included in this repository is the HTML BOM to help you in the assembly/soldering process after you received your PCBs. Also, here is the list of components you will have to source and solder yourself:
