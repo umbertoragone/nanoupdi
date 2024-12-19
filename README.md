@@ -43,7 +43,7 @@ If you want to fabricate your own PCBs from a PCB manufacturer of your choice, y
 - **Mark on PCB**: Remove Mark (JLCPCB specific, now free of charge)
 
 ## BOM and assembly
-Included in this repository is the HTML BOM to help you in the assembly/soldering process after you received your PCBs. Also, here is the list of components you will have to source and solder yourself:
+Included in this repository is the HTML BOM (`ibom.html`) to help you in the assembly/soldering process after you received your PCBs. You can [access the Interactive HTML BOM here](https://bom.nanoupdi.com), without having to download the .html file. Also, here is the list of components you will have to source and solder yourself:
 
 | Reference(s) | Value                   | Footprint                       | LCSC Part #                                                   | Qty |
 |--------------|-------------------------|---------------------------------|---------------------------------------------------------------|-----|
