@@ -1,5 +1,5 @@
 # NanoUPDI
-The smallest USB Type-C Serial UPDI programmer for your projects. **Available for purchase on my [Tindie store](https://www.tindie.com/products/ragone/nanoupdi/)!**
+The smallest USB Type-C Serial UPDI programmer for your projects. **Available for purchase on [Tindie](https://www.tindie.com/products/ragone/nanoupdi/) or [Lectronz](https://lectronz.com/products/nanoupdi)!**
 
 <img src="/images/nanoupdi_3.jpg?raw=true" alt="NanoUPDI programmer front" width=400 /> <img src="/images/nanoupdi_4.jpg?raw=true" alt="NanoUPDI programmer back" width=400 />
 
@@ -70,4 +70,4 @@ Included in this repository is the HTML BOM (`ibom.html`) to help you in the ass
 - **D1**: it can be swapped with a 1k 0402 resistor (loopback resistor between RX and TX). Both solutions will work the same.
 
 ## Prebuilt option
-If you're looking for a NanoUPDI programmer that's already assembled and ready to go, I offer a prebuilt option that's perfect for those who want a plug-and-play solution without the hassle of sourcing and assembling components. Each unit is handcrafted and fully tested before shipping. **[Check it out on my Tindie store](https://www.tindie.com/products/ragone/nanoupdi/)**.
+If you're looking for a NanoUPDI programmer that's already assembled and ready to go, I offer a prebuilt option that's perfect for those who want a plug-and-play solution without the hassle of sourcing and assembling components. Each unit is handcrafted and fully tested before shipping. **[Check it out on my Tindie store](https://www.tindie.com/products/ragone/nanoupdi/) or on [Lectronz](https://lectronz.com/products/nanoupdi)**.
