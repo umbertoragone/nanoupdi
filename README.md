@@ -1,7 +1,7 @@
 # NanoUPDI
 The smallest USB Type-C Serial UPDI programmer for your projects. **Available for purchase on [Tindie](https://www.tindie.com/products/ragone/nanoupdi/) or [Lectronz](https://lectronz.com/products/nanoupdi)!**
 
-<img src="/images/nanoupdi_3.jpg?raw=true" alt="NanoUPDI programmer front" width=400 /> <img src="/images/nanoupdi_4.jpg?raw=true" alt="NanoUPDI programmer back" width=400 />
+<img src="/images/nanoupdi_5.jpg?raw=true" alt="NanoUPDI programmer front" width=400 /> <img src="/images/nanoupdi_6.jpg?raw=true" alt="NanoUPDI programmer back" width=400 />
 
 ## What is UPDI?
 UPDI is a proprietary programming interface developed by [Atmel/Microchip](https://www.microchip.com), similar to the JTAG/SWD interfaces used for ARM microcontrollers. It's the default programming interface for several newer AVR microcontrollers, including models like the ATTINY212, ATTINY412, ATTINY414, etc. It only requires a single pin for programming, so it's more convenient and efficient.
