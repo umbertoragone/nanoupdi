@@ -30,6 +30,9 @@ Make sure to specify the correct serial device: on Linux devices, NanoUPDI might
 ### Arduino IDE
 To use NanoUPDI with the Arduino IDE, first install the [megaTinyCore board support package](https://github.com/SpenceKonde/megaTinyCore), then choose **Serial UPDI** as the programmer in the dropdown menu.
 
+### WebUPDI
+For a browser-based programming option, you can use [WebUPDI](https://github.com/manuelkasper/webupdi) — a lightweight tool that runs entirely in your browser with Web Serial API support. Simply connect your NanoUPDI, select your target device, and flash firmware without installing any additional software. Works on Chrome, Edge, and other Chromium-based browsers.
+
 ## Kicad files
 If you want to open and modify the original project in Kicad 8 (>=8.0.6), you can find both the `.kicad_sch` and `.kicad_pcb` files in the `kicad` folder in this repository. I recommend you use the latest Kicad 8 version available for better compatibility.
 
